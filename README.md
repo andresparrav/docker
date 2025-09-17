@@ -29,6 +29,20 @@ docker ps
 ```
 docker images --help
 ```
+Crear imágenes a partir de archivos Dockerfile.
+```
+docker build
+```
+Ejecutar contenedores a partir de imágenes disponibles.
+```
+docker run
+```
+Ambos comandos tienen múltiples parámetros, pero la documentación proporcionada al utilizar --help facilita enormemente entender cada opción y explicación disponible.
+```
+docker build --help
+docker run --help
+```
+
 
 ## Comandos para imagenes:
 
