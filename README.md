@@ -1,7 +1,7 @@
 # Commands Docker
 
 <p align="center">
-  <img src="https://github.com/andresparrav/docker/blob/main/docker1.png" width="800"/>
+  <img src="https://github.com/andresparrav/docker/blob/main/docker1.png" width="900"/>
 </p>
 
 
