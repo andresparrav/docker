@@ -1,6 +1,9 @@
 # Commands Docker
 
-![Alt text](https://github.com/andresparrav/docker/blob/main/docker1.png "a title")
+<p align="center">
+  <img src="https://github.com/andresparrav/docker/blob/main/docker1.png" width="380"/>
+</p>
+
 
 ## Comandos basicos
 
