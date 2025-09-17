@@ -1,5 +1,13 @@
 # Commands Docker
 
+## Comandos basicos
+
+¿Cómo verificar la versión de Docker instalada?
+Una acción básica para comprobar nuestra instalación es utilizar la línea de comandos con el comando:
+```
+docker version
+```
+
 ## Comandos para imagenes:
 
 | Description      | Syntax |
