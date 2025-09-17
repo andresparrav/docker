@@ -53,6 +53,8 @@ docker run --help
 | Listar imágenes locales | docker images |
 | Eliminar una imagen | docker rmi <nombre_imagen> |
 | Eliminar todas las imágenes no utilizadas |  docker image prune |
+| Levanta todos los servicios definidos en un archivo docker-compose.yml. Por ejemplo: | docker-compose up |
+| docker-compose down: Detiene y elimina todos los contenedores definidos en un archivo docker-compose.yml. Por ejemplo: | docker-compose down |
 
 
 ## Comandos para contenedores
