@@ -8,6 +8,28 @@ Una acción básica para comprobar nuestra instalación es utilizar la línea de
 docker version
 ```
 
+¿Qué información relevante aporta docker info?
+Puedes acceder a detalles importantes sobre el hardware disponible o asignado a Docker en tu sistema. Muestra especificaciones relevantes como la memoria, procesador y GPU disponibles, información útil para decidir futuros ajustes en tu equipo.
+```
+docker info
+```
+
+¿Cuáles son los comandos básicos equivalentes a Docker Desktop?
+Docker Desktop tiene una interfaz visual amigable, pero es fundamental conocer su equivalente en línea de comandos. Estos son algunos ejemplos clave que puedes memorizar:
+
+* Listar imágenes disponibles:
+```
+docker images
+```
+* Ver contenedores activos:
+```
+docker ps
+```
+* Explorar opciones de comandos específicos con ayuda:
+```
+docker images --help
+```
+
 ## Comandos para imagenes:
 
 | Description      | Syntax |
