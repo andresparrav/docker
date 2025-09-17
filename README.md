@@ -1,6 +1,6 @@
 # Commands Docker
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://github.com/andresparrav/docker/blob/main/docker1.png "a title")
 
 ## Comandos basicos
 
