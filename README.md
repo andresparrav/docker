@@ -1,5 +1,7 @@
 # Commands Docker
 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
 ## Comandos basicos
 
 ¿Cómo verificar la versión de Docker instalada?
