@@ -57,6 +57,7 @@ docker run --help
 | Construir una imagen desde un archivo Dockerfile sin la caché | docker build -t <nombre_de_imagen> . -no-cache |
 | Listar imágenes locales | docker images |
 | Eliminar una imagen | docker rmi <nombre_imagen> |
+| Eliminar una imagen con image id | docker rmi <image id> |
 | Eliminar todas las imágenes no utilizadas |  docker image prune |
 | Levanta todos los servicios definidos en un archivo docker-compose.yml. Por ejemplo: | docker-compose up |
 | docker-compose down: Detiene y elimina todos los contenedores definidos en un archivo docker-compose.yml. Por ejemplo: | docker-compose down |
