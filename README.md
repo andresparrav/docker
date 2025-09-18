@@ -70,7 +70,7 @@ docker run --help
 | Crea y ejecuta un contenedor a partir de una imagen, con un nombre personalizado: | docker run --name <nombre_contenedor> <nombre_imagen> |
 | Ejecutar un contenedor con y publicar un puerto(s) del contenedor al host. | docker run -p <puerto_host>:<puerto_contenedor> <nombre_imagen> |
 | Ejecutar un contenedor en segundo plano | docker run -d <nombre_imagen> |
-| Iniciar o detener un contenedor existente: | docker start|stop <nombre_del_contenedor> (o <id_del_contenedor>) |
+| Iniciar o detener un contenedor existente: | docker start / stop <nombre_del_contenedor> (o <id_del_contenedor>) |
 | Eliminar un contenedor detenido: | docker rm <nombre_del_contenedor> |
 | Abrir un shell dentro de un contenedor en ejecución: | docker exec -it <nombre_del_contenedor> sh |
 | Obtener y seguir los logs de un contenedor: | docker logs -f <nombre_contenedor> |
