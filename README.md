@@ -53,7 +53,7 @@ docker run --help
 
 | Description      | Syntax |
 | ----------- | ----------- |
-| Construir una imagen a partir de un archivo Dockerfile: | docker build -t <nombre_de_imagen> |
+| Construir una imagen a partir de un archivo Dockerfile, hay que estar ubicado dentro del folder que contiene los archivos: | docker build -t <nombre_de_imagen> |
 | Construir una imagen desde un archivo Dockerfile sin la caché | docker build -t <nombre_de_imagen> . -no-cache |
 | Listar imágenes locales | docker images |
 | Eliminar una imagen | docker rmi <nombre_imagen> |
